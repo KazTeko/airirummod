@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "darkairiummod:blocks/dark_chest"
+    }
+}

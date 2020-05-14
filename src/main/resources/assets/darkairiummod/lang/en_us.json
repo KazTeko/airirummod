@@ -1,0 +1,24 @@
+{
+"item.darkairiummod.airiumingot_item": "Airium Ingot",
+"item.darkairiummod.diaingot_item": "Dia Ingot",
+
+
+"item.darkairiummod.melonjuice_item": "Melon Juice",
+
+
+"block.darkairiummod.airiumblock_block": "Airium Block",
+"block.darkairiummod.diablock_block": "Dia Block",
+"block.darkairiummod.diaore_block": "Dia Ore",
+"block.darkairiummod.quarry": "Quarry",
+"block.darkairiummod.dark_chest": "DarkChest",
+
+
+"itemGroup.darkairiumtab": "Darkairium Mod",
+
+
+"item.darkairiummod.dia_sword": "Dia Sword",
+"item.darkairiummod.dia_pickaxe": "Dia Pickaxe",
+"item.darkairiummod.dia_shovel": "Dia Shovel",
+"item.darkairiummod.dia_axe": "Dia Axe",
+"item.darkairiummod.dia_hoe": "Dia Hoe"
+}

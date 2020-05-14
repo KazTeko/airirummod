@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "darkairiummod:diaore_block"
+  },
+  "result": "darkairiummod:diaingot_item",
+  "experience": 5.0,
+  "cookingtime": 50
+}

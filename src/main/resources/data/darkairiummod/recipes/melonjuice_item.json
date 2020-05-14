@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+	{
+		"item": "minecraft:glass_bottle"
+	},
+	{
+		"item": "minecraft:melon_slice"
+		}
+	],
+	"result": {
+		"item": "darkairiummod:melonjuice_item"
+		}
+	}

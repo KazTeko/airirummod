@@ -1,0 +1,53 @@
+modLoader="javafml"
+
+loaderVersion="[31,)" 
+
+# A URL to refer people to when problems occur with this mod
+issueTrackerURL="https://ktmcmods.enjin.com/forum"
+
+[[mods]] 
+
+modId="darkairiummod"
+
+version="1.0"
+
+displayName="Darkairium Mod"
+
+# A URL to query for updates for this mod. See the JSON update specification <here>
+updateJSONURL="https://ktmcmods.enjin.com/forum"
+
+# A URL for the "homepage" for this mod, displayed in the mod UI
+displayURL="https://ktmcmods.enjin.com/"
+
+# A file name (in the root of the mod JAR) containing a logo for display
+logoFile="examplemod.png"
+
+credits="Thanks For Installing Darkairium Hope You Enjoy"
+
+authors="KazTeko" #optional
+# The description text for the mod (multi line!) (#mandatory)
+
+description='''
+	Welcome To Darkairium Making Minecraft More Grindy And More Fun Can Run on its own or with other mods!
+'''
+
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.darkairiummod]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+
+# Here's another dependency
+[[dependencies.darkairiummod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

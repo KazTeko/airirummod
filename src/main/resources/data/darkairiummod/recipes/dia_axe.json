@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " II",
+    " iI",
+    " i "
+  ],
+  "key": {
+    "I": {
+      "item": "darkairiummod:diaingot_item"
+    },
+    "i": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "darkairiummod:dia_axe"
+  }
+}
